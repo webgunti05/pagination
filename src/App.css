@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -26,6 +27,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.activeButton{
+  background-color: #000;
+  color:#fff
 }
 
 @keyframes App-logo-spin {
